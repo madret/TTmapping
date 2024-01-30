@@ -6,7 +6,7 @@
    <style>
         table {
             border-collapse: collapse;
-            width: 100%;
+            width: 130%;
         }
 
         th, td {
@@ -17,7 +17,6 @@
 
         th {
             background-color: #2874A6;
-            width: 60%;
         }
 
         td:nth-child(2) {
