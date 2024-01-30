@@ -17,13 +17,13 @@
 
         th {
             background-color: #2874A6;
+            width: 60%;
         }
 
         td:nth-child(2) {
             cursor: pointer;
             text-decoration: underline;
             color: blue;
-            width: 60%;
         }
 
         /* Define colors for different tactics */
