@@ -103,7 +103,7 @@
             <td>
             <a href="https://car.mitre.org/analytics/CAR-2014-12-001/" target="_blank">Remotely Launched Executables via WMI</a><br>
             <a href="https://car.mitre.org/analytics/CAR-2016-03-002/" target="_blank">Create Remote Process via WMIC</a><br>
-            <a href="https://car.mitre.org/analytics/CAR-2014-11-007/" target="_blank">DCSync</a>
+            <a href="https://car.mitre.org/analytics/CAR-2014-11-007/" target="_blank">WMI over RPC</a>
         </td>
     </tr>
     <tr>
