@@ -23,7 +23,7 @@
             cursor: pointer;
             text-decoration: underline;
             color: blue;
-            width: 30%;
+            width: 60%;
         }
 
         /* Define colors for different tactics */
@@ -89,6 +89,12 @@
         <td>Execution</td>
         <td>Command and Scripting Interpreter</td>
         <td>T1059</td>
+        <td>
+            <a href="https://car.mitre.org/analytics/CAR-2021-01-002/" target="_blank">Unusually Long Command Line Strings</a><br>
+            <a href="https://car.mitre.org/analytics/CAR-2014-04-003/" target="_blank">Powershell Execution</a><br>
+            <a href="https://car.mitre.org/analytics/CAR-2014-11-004/" target="_blank">Remote PowerShell Sessions</a><br>
+            <a href="https://car.mitre.org/analytics/CAR-2013-04-002/" target="_blank">A series of suspicious commands</a>
+        </td>
     </tr>
     <tr>
 <tr class="execution">
