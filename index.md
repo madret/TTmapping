@@ -26,6 +26,7 @@
         }
 
         /* Define colors for different tactics */
+        .tt { background-color: #2874A6; } 
         .reconnaissance { background-color: #CCCCCC; } 
         .resource-development { background-color: #808080; } 
         .initial-access { background-color: #87CEEB; } /* Sky Blue */
@@ -48,6 +49,7 @@
 
 <table>
     <tr>
+        <tr class="tt">
         <th>Tactic</th>
         <th>Technique</th>
         <th>ID</th>
