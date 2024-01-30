@@ -101,6 +101,9 @@
         <td></td>
         <td>User Execution: Malicious File</td>
         <td>T1204.002</td>
+        <td>
+            <a href="https://car.mitre.org/analytics/CAR-2021-05-002/" target="_blank">Batch File Write to System32</a>
+        </td>
     </tr>
     <tr>
 <tr class="execution">
