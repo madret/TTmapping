@@ -310,7 +310,9 @@
     function redirectToMitre(techniqueID) {
         // Replace dot with a forward slash
         const formattedTechniqueID = techniqueID.replace(/\./g, '/');
-        window.location.href = `https://attack.mitre.org/techniques/${formattedTechniqueID}/`;
+        
+        // Open the link in a new tab
+        window.open(`https://attack.mitre.org/techniques/${formattedTechniqueID}/`, '_blank');
     }
 
     // Add event listeners to the technique cells for hyperlink functionality
@@ -324,5 +326,6 @@
         }
     });
 </script>
+
 
 
