@@ -27,7 +27,7 @@
         }
         
         td.analytics {
-    width: 30%; 
+    width: 50%; 
     white-space: pre-line;
         }
 
