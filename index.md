@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -45,7 +44,7 @@
 </head>
 <body>
 
-<h2>Threat intel feed - MITRE ATT&CK® mapping</h2>
+<h2>MITRE ATT&CK® mapping</h2>
 
 <table>
     <tr>
@@ -305,7 +304,6 @@
     <td>T1486</td>
 </tr>
 
-</table>
 
 <script>
     // Function to handle technique hyperlink clicks
@@ -327,6 +325,4 @@
     });
 </script>
 
-</body>
-</html>
 
