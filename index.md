@@ -25,6 +25,11 @@
             text-decoration: underline;
             color: blue;
         }
+        
+        td.analytics {
+    width: 30%; 
+    white-space: pre-line;
+        }
 
         /* Define colors for different tactics */
         .reconnaissance { background-color: #CCCCCC; } 
@@ -89,7 +94,7 @@
         <td>Execution</td>
         <td>Command and Scripting Interpreter</td>
         <td>T1059</td>
-        <td>
+        <td class="analytics">
             <a href="https://car.mitre.org/analytics/CAR-2021-01-002/" target="_blank">Unusually Long Command Line Strings</a><br>
             <a href="https://car.mitre.org/analytics/CAR-2014-04-003/" target="_blank">Powershell Execution</a><br>
             <a href="https://car.mitre.org/analytics/CAR-2014-11-004/" target="_blank">Remote PowerShell Sessions</a><br>
@@ -101,7 +106,7 @@
         <td></td>
         <td>User Execution: Malicious File</td>
         <td>T1204.002</td>
-        <td>
+        <td class="analytics">
             <a href="https://car.mitre.org/analytics/CAR-2021-05-002/" target="_blank">Batch File Write to System32</a>
         </td>
     </tr>
@@ -110,7 +115,7 @@
         <td></td>
         <td>Windows Management Instrumentation</td>
         <td>T1047</td>
-            <td>
+        <td class="analytics">
             <a href="https://car.mitre.org/analytics/CAR-2014-12-001/" target="_blank">Remotely Launched Executables via WMI</a><br>
             <a href="https://car.mitre.org/analytics/CAR-2016-03-002/" target="_blank">Create Remote Process via WMIC</a><br>
             <a href="https://car.mitre.org/analytics/CAR-2014-11-007/" target="_blank">WMI over RPC</a>
