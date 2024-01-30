@@ -11,7 +11,7 @@
 
         th, td {
             border: 1px solid black;
-            padding: 16px;
+            padding: 8px;
             text-align: left;
         }
 
@@ -23,6 +23,7 @@
             cursor: pointer;
             text-decoration: underline;
             color: blue;
+            width: 30%;
         }
 
         /* Define colors for different tactics */
