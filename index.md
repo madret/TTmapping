@@ -6,7 +6,7 @@
    <style>
         table {
             border-collapse: collapse;
-            width: 140%;
+            width: 130%;
             margin: 0 auto;
         }
 
@@ -27,7 +27,7 @@
         }
         
         td.analytics {
-    width: 50%; 
+    width: 40%; 
     white-space: pre-line;
         }
 
