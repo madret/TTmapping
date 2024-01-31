@@ -55,7 +55,7 @@
 <table>
     <tr>
         <th>Tactic</th>
-        <th>Technique & Sigma detections</th>
+        <th>Technique + Sigma rules</th>
         <th>ID</th>
         <th>Analytics</th>
     </tr>
