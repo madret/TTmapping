@@ -317,9 +317,6 @@
     <td></td>
     <td>Service stop</td>
     <td>T1489</td>
-            <td class="analytics">
-            <a href="https://detection.fyi/tags/attack.t1489/" target="_blank">Sigma rules: T1489</a><br>
-        </td>
 </tr>
 
 <tr class="impact">
