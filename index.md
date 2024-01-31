@@ -56,7 +56,7 @@
     <tr>
         <th>Tactic</th>
         <th>Technique</th>
-        <th>ID</th>
+        <th>ID/Sigma</th>
         <th>Analytics</th>
     </tr>
     <tr>
