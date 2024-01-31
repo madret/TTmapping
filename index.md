@@ -326,7 +326,7 @@
 </tr>
 
 <script>
-    // Function to handle technique hyperlink clicks
+    // Function to handle technique hyperlink clicks for MITRE ATT&CK
     function redirectToMitre(techniqueID) {
         // Replace dot with a forward slash
         const formattedTechniqueID = techniqueID.replace(/\./g, '/');
@@ -335,7 +335,7 @@
         window.open(`https://attack.mitre.org/techniques/${formattedTechniqueID}/`, '_blank');
     }
 
-    // Function to handle technique ID clicks
+    // Function to handle technique ID clicks for detection.fyi
     function redirectToDetectionFyi(techniqueID) {
         // Convert Technique ID to lowercase
         const lowercaseTechniqueID = techniqueID.toLowerCase();
@@ -366,6 +366,3 @@
         }
     });
 </script>
-
-
-
