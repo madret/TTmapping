@@ -325,7 +325,6 @@
     <td>T1486</td>
 </tr>
 
-
 <script>
     // Function to handle technique hyperlink clicks
     function redirectToMitre(techniqueID) {
@@ -336,13 +335,23 @@
         window.open(`https://attack.mitre.org/techniques/${formattedTechniqueID}/`, '_blank');
     }
 
+    // Function to handle technique ID clicks
+    function redirectToDetectionFyi(techniqueID) {
+        // Convert Technique ID to lowercase
+        const lowercaseTechniqueID = techniqueID.toLowerCase();
+
+        // Open the link in a new tab
+        window.open(`https://detection.fyi/tags/attack.${lowercaseTechniqueID}/`, '_blank');
+    }
+
     // Add event listeners to the technique cells for hyperlink functionality
-    document.querySelectorAll('td:nth-child(2)').forEach((techniqueCell) => {
-        if (techniqueCell.innerText.trim() !== '') {
-            techniqueCell.style.cursor = 'pointer';
-            techniqueCell.addEventListener('click', () => {
-                const techniqueID = techniqueCell.nextElementSibling.innerText.trim();
+    document.querySelectorAll('td:nth-child(3)').forEach((idCell) => {
+        if (idCell.innerText.trim() !== '') {
+            idCell.style.cursor = 'pointer';
+            idCell.addEventListener('click', () => {
+                const techniqueID = idCell.innerText.trim();
                 redirectToMitre(techniqueID);
+                redirectToDetectionFyi(techniqueID);
             });
         }
     });
