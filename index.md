@@ -351,6 +351,16 @@
             idCell.addEventListener('click', () => {
                 const techniqueID = idCell.innerText.trim();
                 redirectToMitre(techniqueID);
+            });
+        }
+    });
+
+    // Add event listeners to the technique cells for hyperlink functionality
+    document.querySelectorAll('td:nth-child(2)').forEach((nameCell) => {
+        if (nameCell.innerText.trim() !== '') {
+            nameCell.style.cursor = 'pointer';
+            nameCell.addEventListener('click', () => {
+                const techniqueID = nameCell.nextElementSibling.innerText.trim();
                 redirectToDetectionFyi(techniqueID);
             });
         }
