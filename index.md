@@ -229,6 +229,11 @@
         <td>Credentials from Web Browsers</td>
         <td>T1555.003</td>
     </tr>
+    <tr class="credential-access">
+        <td></td>
+        <td>Steal Web Session Cookie</td>
+        <td>T1539</td>
+    </tr>
 <tr class="discovery">
     <td>Discovery</td>
     <td>Account Discovery</td>
@@ -294,6 +299,11 @@
     <td>Ingress Tool Transfer</td>
     <td>T1105</td>
 </tr>
+<tr class="command-and-control">
+    <td></td>
+    <td>Proxy</td>
+    <td>T1090</td>
+</tr>
 
 <tr class="exfiltration">
     <td>Exfiltration</td>
@@ -323,6 +333,11 @@
     <td></td>
     <td>Data Encrypted for Impact</td>
     <td>T1486</td>
+</tr>
+<tr class="impact">
+    <td></td>
+    <td>Network Denial of Service</td>
+    <td>T1498</td>
 </tr>
 
 <script>
