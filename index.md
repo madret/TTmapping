@@ -72,13 +72,13 @@
     </tr>
     <tr>
 <tr class="initial-access">
-        <td>Exploit Public-Facing application</td>
-        <td>Exploit Public-Facing application</td>
+        <td></td>
+         <td>Exploit public-facing application</td>
         <td>T1190</td>
     </tr>
     <tr>
 <tr class="initial-access">
-        <td>External Remote Services</td>
+        <td></td>
          <td>External Remote Services</td>
         <td>T1133</td>
             <td class="analytics">
