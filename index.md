@@ -62,12 +62,14 @@
     <tr>
 <tr class="reconnaissance">
         <td>Reconnaissance</td>
-            <td class="analytics"></td>
+        <td>TA0043</td>
+        <td class="analytics"></td>
     </tr>
     <tr>
     <tr class="resource-development">
         <td>Resource Development</td>
-            <td class="analytics"></td>
+        <td>TA0042</td>
+        <td class="analytics"></td>
     </tr>
     <tr>
 <tr class="initial-access">
@@ -82,7 +84,6 @@
     </tr>
     <tr>
 <tr class="initial-access">
-        <td></td>
         <td>Exploit Public-Facing application</td>
         <td>T1190</td>
             <td class="analytics"> </td>
@@ -92,7 +93,8 @@
         <td></td>
         <td>External Remote Services</td>
         <td>T1133</td>
-            <a href="https://atomicredteam.io/initial-access/T1133" target="_blank">Exploit public-facing application</a>
+            <td class="analytics">
+            <a href="https://atomicredteam.io/initial-access/T1133" target="_blank">External remote services</a>
     </td>
     </tr>
     <tr>
