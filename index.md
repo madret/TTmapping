@@ -75,6 +75,7 @@
         <td></td>
          <td>Exploit public-facing application</td>
         <td>T1190</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="initial-access">
@@ -161,24 +162,28 @@
         <td></td>
         <td>Exploitation for Privilege Escalation</td>
         <td>T1068</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="privilege-escalation">
         <td></td>
         <td>Bypass User Account Control</td>
         <td>T1548.002</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="privilege-escalation">
         <td></td>
         <td>Account Manipulation</td>
         <td>T1098</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="privilege-escalation">
         <td></td>
         <td>Process Injection</td>
         <td>T1055</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="defense-evasion">
@@ -194,30 +199,35 @@
         <td></td>
         <td>Indicator Removal: Clear Windows Event Logs</td>
         <td>T1070.001</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="defense-evasion">
         <td></td>
         <td>Deobfuscate/Decode Files or Information</td>
         <td>T1140</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="defense-evasion">
         <td></td>
         <td>System Binary Proxy Execution</td>
         <td>T1218</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="defense-evasion">
         <td></td>
         <td>Masquerading</td>
         <td>T1036</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="defense-evasion">
         <td></td>
         <td>Indicator Removal: File Deletion</td>
         <td>T1070.004</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="credential-access">
@@ -233,17 +243,20 @@
         <td></td>
         <td>OS Credential Dumping</td>
         <td>T1003</td>
+            <td></td>
     </tr>
     <tr>
 <tr class="credential-access">
         <td></td>
         <td>Credentials from Web Browsers</td>
         <td>T1555.003</td>
+            <td></td>
     </tr>
     <tr class="credential-access">
         <td></td>
         <td>Steal Web Session Cookie</td>
         <td>T1539</td>
+                <td></td>
     </tr>
 <tr class="discovery">
     <td>Discovery</td>
@@ -258,30 +271,35 @@
     <td></td>
     <td>Network Share Discovery</td>
     <td>T1135</td>
+            <td></td>
 </tr>
 
 <tr class="discovery">
     <td></td>
     <td>File and Directory Discovery</td>
     <td>T1083</td>
+            <td></td>
 </tr>
 
 <tr class="discovery">
     <td></td>
     <td>Process Discovery</td>
     <td>T1057</td>
+            <td></td>
 </tr>
 
 <tr class="discovery">
     <td></td>
     <td>Remote System Discovery</td>
     <td>T1018</td>
+            <td></td>
 </tr>
 
 <tr class="discovery">
     <td></td>
     <td>System Network Connections Discovery</td>
     <td>T1049</td>
+            <td></td>
 </tr>
 
 <tr class="lateral-movement">
@@ -297,6 +315,7 @@
     <td></td>
     <td>Lateral Tool transfer</td>
     <td>T1570</td>
+            <td></td>
 </tr>
 
 <tr class="command-and-control">
@@ -312,11 +331,13 @@
     <td></td>
     <td>Ingress Tool Transfer</td>
     <td>T1105</td>
+            <td></td>
 </tr>
 <tr class="command-and-control">
     <td></td>
     <td>Proxy</td>
     <td>T1090</td>
+            <td></td>
 </tr>
 
 <tr class="exfiltration">
@@ -332,6 +353,7 @@
     <td></td>
     <td>Exfiltration to Cloud Storage</td>
     <td>T1567.002</td>
+            <td></td>
 </tr>
 
 <tr class="impact">
@@ -347,17 +369,20 @@
     <td></td>
     <td>Service stop</td>
     <td>T1489</td>
+            <td></td>
 </tr>
 
 <tr class="impact">
     <td></td>
     <td>Data Encrypted for Impact</td>
     <td>T1486</td>
+            <td></td>
 </tr>
 <tr class="impact">
     <td></td>
     <td>Network Denial of Service</td>
     <td>T1498</td>
+            <td></td>
 </tr>
 
 <script>
