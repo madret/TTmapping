@@ -182,6 +182,9 @@
         <td>Defense Evasion</td>
         <td>Impair Defenses</td>
         <td>T1562</td>
+            <td class="analytics">
+            <a href="https://atomicredteam.io/atomics/#defense-evasion" target="_blank">Atomics: Defense Evasion</a><br>
+        </td>
     </tr>
     <tr>
 <tr class="defense-evasion">
@@ -218,6 +221,9 @@
         <td>Credential Access</td>
         <td>Brute Force</td>
         <td>T1110</td>
+            <td class="analytics">
+            <a href="https://atomicredteam.io/atomics/#credential-access" target="_blank">Atomics: Credential access</a><br>
+        </td>
     </tr>
     <tr>
 <tr class="credential-access">
@@ -240,6 +246,9 @@
     <td>Discovery</td>
     <td>Account Discovery</td>
     <td>T1087</td>
+            <td class="analytics">
+            <a href="https://atomicredteam.io/atomics/#discovery" target="_blank">Atomics: Discovery</a><br>
+        </td>
 </tr>
 
 <tr class="discovery">
@@ -276,6 +285,9 @@
     <td>Lateral Movement</td>
     <td>Remote Services</td>
     <td>T1021</td>
+            <td class="analytics">
+            <a href="https://atomicredteam.io/atomics/#lateral-movement" target="_blank">Atomics: Lateral movement</a><br>
+        </td>
 </tr>
 
 <tr class="lateral-movement">
@@ -284,16 +296,13 @@
     <td>T1570</td>
 </tr>
 
-<tr class="collection">
-    <td>Collection</td>
-    <td></td>
-    <td></td>
-</tr>
-
 <tr class="command-and-control">
     <td>Command and Control</td>
     <td>Application Layer Protocol: Web Protocols</td>
     <td>T1071.001</td>
+            <td class="analytics">
+            <a href="https://atomicredteam.io/atomics/#command-and-control" target="_blank">Atomics: C2</a><br>
+        </td>
 </tr>
 
 <tr class="command-and-control">
@@ -311,6 +320,9 @@
     <td>Exfiltration</td>
     <td>Exfiltration Over C2 Channel</td>
     <td>T1041</td>
+            <td class="analytics">
+            <a href="https://atomicredteam.io/atomics/#exfiltration" target="_blank">Atomics: Exfiltration</a><br>
+        </td>
 </tr>
 
 <tr class="exfiltration">
@@ -323,6 +335,9 @@
     <td>Impact</td>
     <td>Inhibit System Recovery</td>
     <td>T1490</td>
+            <td class="analytics">
+            <a href="https://atomicredteam.io/atomics/#impact" target="_blank">Atomics: Impact</a><br>
+        </td>
 </tr>
 
 <tr class="impact">
