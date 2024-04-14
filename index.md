@@ -85,7 +85,7 @@
         <td></td>
         <td>Exploit Public-Facing application</td>
         <td>T1190</td>
-            <td class="analytics">
+            <td class="analytics"> </td>
     </tr>
     <tr>
 <tr class="initial-access">
