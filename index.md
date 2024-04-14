@@ -64,7 +64,7 @@
         <td>Reconnaissance</td>
         <td>TA0043</td>
             <td class="analytics">
-            <a href="https://atomicredteam.io/atomics/#reconnaissance" target="_blank">Reconnaissance</a>
+            <a href="https://atomicredteam.io/atomics/#reconnaissance" target="_blank">Reconnaissance</a><br>
     </td>
     </tr>
     <tr>
@@ -93,7 +93,7 @@
         <td>External Remote Services</td>
         <td>T1133</td>
             <td class="analytics">
-            <a href="https://atomicredteam.io/initial-access/T1133" target="_blank">External remote services</a>
+            <a href="https://atomicredteam.io/initial-access/T1133" target="_blank">External remote services</a><br>
     </td>
     </tr>
     <tr>
@@ -107,7 +107,7 @@
             <a href="https://atomicredteam.io/execution/T1059.004" target="_blank">Command and Scripting Interpreter: Bash</a>
             <a href="https://atomicredteam.io/execution/T1059.005" target="_blank">Command and Scripting Interpreter: VB</a>
             <a href="https://atomicredteam.io/execution/T1059.006" target="_blank">Command and Scripting Interpreter: Python</a>
-            <a href="https://atomicredteam.io/execution/T1059.007" target="_blank">Command and Scripting Interpreter: Javascript</a>          
+            <a href="https://atomicredteam.io/execution/T1059.007" target="_blank">Command and Scripting Interpreter: Javascript</a>         
         </td>
     </tr>
     <tr>
@@ -116,7 +116,7 @@
         <td>User Execution: Malicious File</td>
         <td>T1204.002</td>
         <td class="analytics">
-            <a href="https://atomicredteam.io/execution/T1204.002" target="_blank">User Execution: Malicious File</a><br>
+            <a href="https://atomicredteam.io/execution/T1204.002" target="_blank">User Execution: Malicious File</a>
         </td>
     </tr>
     <tr>
