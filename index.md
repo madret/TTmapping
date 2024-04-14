@@ -77,7 +77,8 @@
             <td class="analytics">
             <a href="https://atomicredteam.io/execution/T1078.001" target="_blank">Valid accounts: Default</a>
             <a href="https://atomicredteam.io/execution/T1078.003" target="_blank">Valid accounts: Local</a>
-            <a href="https://atomicredteam.io/execution/T1078.004" target="_blank">Valid accounts: Cloud</a> </td>
+            <a href="https://atomicredteam.io/execution/T1078.004" target="_blank">Valid accounts: Cloud</a> 
+    </td>
     </tr>
     <tr>
 <tr class="initial-access">
@@ -91,7 +92,8 @@
         <td></td>
         <td>External Remote Services</td>
         <td>T1133</td>
-            <a href="https://atomicredteam.io/initial-access/T1133" target="_blank">Exploit public-facing application</a></td>
+            <a href="https://atomicredteam.io/initial-access/T1133" target="_blank">Exploit public-facing application</a>
+    </td>
     </tr>
     <tr>
 <tr class="execution">
