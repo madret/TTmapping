@@ -60,17 +60,6 @@
         <th>Atomics</th>
     </tr>
     <tr>
-<tr class="reconnaissance">
-        <td>Reconnaissance</td>
-        <td>Reconnaissance</td>
-        <td>TA0043</td>
-    </tr>
-    <tr>
-    <tr class="resource-development">
-        <td>Resource Development</td>
-        <td>TA0042</td>
-    </tr>
-    <tr>
 <tr class="initial-access">
         <td>Initial Access</td>
         <td>Valid accounts</td>
@@ -84,11 +73,13 @@
     <tr>
 <tr class="initial-access">
         <td>Exploit Public-Facing application</td>
+        <td>Exploit Public-Facing application</td>
         <td>T1190</td>
     </tr>
     <tr>
 <tr class="initial-access">
         <td>External Remote Services</td>
+         <td>External Remote Services</td>
         <td>T1133</td>
             <td class="analytics">
             <a href="https://atomicredteam.io/initial-access/T1133" target="_blank">External remote services</a><br>
