@@ -63,13 +63,13 @@
 <tr class="reconnaissance">
         <td>Reconnaissance</td>
         <td>TA0043</td>
-        <td class="analytics"></td>
+            <td class="analytics"></td>
+            <a href="https://atomicredteam.io/atomics/#reconnaissance" target="_blank">Reconnaissance</a>
     </tr>
     <tr>
     <tr class="resource-development">
         <td>Resource Development</td>
         <td>TA0042</td>
-        <td class="analytics"></td>
     </tr>
     <tr>
 <tr class="initial-access">
@@ -86,11 +86,9 @@
 <tr class="initial-access">
         <td>Exploit Public-Facing application</td>
         <td>T1190</td>
-            <td class="analytics"> </td>
     </tr>
     <tr>
 <tr class="initial-access">
-        <td></td>
         <td>External Remote Services</td>
         <td>T1133</td>
             <td class="analytics">
