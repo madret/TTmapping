@@ -95,7 +95,6 @@
         <td>Command and Scripting Interpreter</td>
         <td>T1059</td>
         <td class="analytics">
-            <a href="https://atomicredteam.io/atomics/#execution/" target="_blank">Atomics:Execution</a><br>
         </td>
     </tr>
     <tr>
@@ -104,7 +103,6 @@
         <td>User Execution: Malicious File</td>
         <td>T1204.002</td>
         <td class="analytics">
-             <a href="https://atomicredteam.io/atomics/#execution/" target="_blank">Atomics:Execution</a>
         </td>
     </tr>
     <tr>
@@ -113,7 +111,7 @@
         <td>Windows Management Instrumentation</td>
         <td>T1047</td>
         <td class="analytics">
-            <a href="https://atomicredteam.io/atomics/#execution/" target="_blank">Atomics:Execution</a><br>
+            <a href="https://atomicredteam.io/atomics/#execution" target="_blank">Atomics:Execution</a><br>
         </td>
     </tr>
     <tr>
