@@ -29,6 +29,7 @@
         td.analytics {
     width: 40%; 
     white-space: pre-line;
+    color:black;
         }
 
         /* Define colors for different tactics */
