@@ -65,6 +65,7 @@
         <td>TA0043</td>
             <td class="analytics"></td>
             <a href="https://atomicredteam.io/atomics/#reconnaissance" target="_blank">Reconnaissance</a>
+    </td>
     </tr>
     <tr>
     <tr class="resource-development">
