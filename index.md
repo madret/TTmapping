@@ -62,14 +62,12 @@
     <tr>
 <tr class="reconnaissance">
         <td>Reconnaissance</td>
-        <td></td>
-        <td></td>
+            <td class="analytics"></td>
     </tr>
     <tr>
     <tr class="resource-development">
         <td>Resource Development</td>
-        <td></td>
-        <td></td>
+            <td class="analytics"></td>
     </tr>
     <tr>
 <tr class="initial-access">
