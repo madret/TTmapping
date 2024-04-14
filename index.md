@@ -95,6 +95,13 @@
         <td>Command and Scripting Interpreter</td>
         <td>T1059</td>
         <td class="analytics">
+            <a href="https://atomicredteam.io/execution/T1059.001" target="_blank">Command and Scripting Interpreter: Powershell</a>
+            <a href="https://atomicredteam.io/execution/T1059.003" target="_blank">Command and Scripting Interpreter: CMD</a>
+            <a href="https://atomicredteam.io/execution/T1059.004" target="_blank">Command and Scripting Interpreter: Bash</a>
+            <a href="https://atomicredteam.io/execution/T1059.005" target="_blank">Command and Scripting Interpreter: VB</a>
+            <a href="https://atomicredteam.io/execution/T1059.006" target="_blank">Command and Scripting Interpreter: Python</a>
+            <a href="https://atomicredteam.io/execution/T1059.007" target="_blank">Command and Scripting Interpreter: Javascript</a>          
+            <br>
         </td>
     </tr>
     <tr>
@@ -103,6 +110,7 @@
         <td>User Execution: Malicious File</td>
         <td>T1204.002</td>
         <td class="analytics">
+            <a href="https://atomicredteam.io/execution/T1204.002" target="_blank">User Execution: Malicious File</a><br>
         </td>
     </tr>
     <tr>
@@ -111,7 +119,7 @@
         <td>Windows Management Instrumentation</td>
         <td>T1047</td>
         <td class="analytics">
-            <a href="https://atomicredteam.io/atomics/#execution" target="_blank">Atomics:Execution</a><br>
+            <a href="https://atomicredteam.io/execution/T1047" target="_blank">WMI</a><br>
         </td>
     </tr>
     <tr>
