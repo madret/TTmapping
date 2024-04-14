@@ -122,6 +122,9 @@
         <td>Persistence</td>
         <td>Create or Modify System Process: Windows Service</td>
         <td>T1543.003</td>
+            <td class="analytics">
+            <a href="https://atomicredteam.io/atomics/#persistence" target="_blank">Atomics: Persistence</a><br>
+        </td>
     </tr>
     <tr>
 <tr class="persistence">
@@ -146,6 +149,9 @@
         <td>Privilege Escalation</td>
         <td>Access Token Manipulation</td>
         <td>T1134</td>
+                <td class="analytics">
+            <a href="https://atomicredteam.io/atomics/#privilege-escalation" target="_blank">Atomics: Privesc</a><br>
+        </td>
     </tr>
     <tr>
 <tr class="privilege-escalation">
