@@ -66,9 +66,9 @@
         <td>Valid accounts</td>
         <td>T1078</td>
             <td class="analytics">
-            <a href="https://atomicredteam.io/execution/T1078.001" target="_blank">Valid accounts: Default</a>
-            <a href="https://atomicredteam.io/execution/T1078.003" target="_blank">Valid accounts: Local</a>
-            <a href="https://atomicredteam.io/execution/T1078.004" target="_blank">Valid accounts: Cloud</a> 
+            <a href="https://atomicredteam.io/initial-access/T1078.001" target="_blank">Valid accounts: Default</a>
+            <a href="https://atomicredteam.io/initial-access/T1078.003" target="_blank">Valid accounts: Local</a>
+            <a href="https://atomicredteam.io/initial-access/T1078.004" target="_blank">Valid accounts: Cloud</a> 
     </td>
     </tr>
     <tr>
