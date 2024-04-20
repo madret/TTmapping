@@ -51,7 +51,7 @@
 </head>
 <body>
 
-<h2>MITRE ATT&CK® mapping</h2>
+<h2>MITRE ATT&CK® mapper</h2>
 
 <table>
     <tr>
