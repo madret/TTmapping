@@ -310,6 +310,13 @@
             <td></td>
 </tr>
 
+<tr class="discovery">
+    <td></td>
+    <td>System Owner/User Discovery</td>
+    <td>T1033</td>
+            <td></td>
+</tr>
+
 <tr class="lateral-movement">
     <td>Lateral Movement</td>
     <td>Remote Services</td>
@@ -328,8 +335,8 @@
 
 <tr class="command-and-control">
     <td>Command and Control</td>
-    <td>Application Layer Protocol: Web Protocols</td>
-    <td>T1071.001</td>
+    <td>Application Layer Protocol</td>
+    <td>T1071</td>
             <td class="analytics">
             <a href="https://atomicredteam.io/atomics/#command-and-control" target="_blank">Atomics: C2</a><br>
         </td>
