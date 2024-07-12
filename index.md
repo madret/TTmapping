@@ -51,7 +51,7 @@
 </head>
 <body>
 
-<h2>MITRE ATT&CK® mapper</h2>
+<h2>MITRE ATT&CK® Techniques and Tactics mapper</h2>
 
 <table>
     <tr>
@@ -198,8 +198,15 @@
     <tr>
 <tr class="defense-evasion">
         <td></td>
-        <td>Indicator Removal: Clear Windows Event Logs</td>
-        <td>T1070.001</td>
+        <td>Indicator Removal</td>
+        <td>T1070</td>
+            <td></td>
+    </tr>
+    <tr>
+<tr class="defense-evasion">
+        <td></td>
+        <td>Obfuscated Files or Information</td>
+        <td>T1027</td>
             <td></td>
     </tr>
     <tr>
@@ -221,13 +228,6 @@
         <td></td>
         <td>Masquerading</td>
         <td>T1036</td>
-            <td></td>
-    </tr>
-    <tr>
-<tr class="defense-evasion">
-        <td></td>
-        <td>Indicator Removal: File Deletion</td>
-        <td>T1070.004</td>
             <td></td>
     </tr>
     <tr>
@@ -293,6 +293,13 @@
     <td></td>
     <td>Remote System Discovery</td>
     <td>T1018</td>
+            <td></td>
+</tr>
+
+<tr class="discovery">
+    <td></td>
+    <td>System Information Discovery</td>
+    <td>T1082</td>
             <td></td>
 </tr>
 
