@@ -138,8 +138,15 @@
     <tr>
 <tr class="persistence">
         <td></td>
-        <td>Registry Run Keys / Startup Folder</td>
-        <td>T1547.001</td>
+        <td>Boot or Logon Autostart Execution</td>
+        <td>T1547</td>
+            <td></td>
+    </tr>
+    <tr>
+<tr class="persistence">
+        <td></td>
+        <td>Boot or Logon Initialization Scripts</td>
+        <td>T1037</td>
             <td></td>
     </tr>
     <tr>
@@ -242,8 +249,8 @@
     <tr>
 <tr class="credential-access">
         <td></td>
-        <td>OS Credential Dumping</td>
-        <td>T1003</td>
+        <td>Steal Application Access Token</td>
+        <td>T1528</td>
             <td></td>
     </tr>
     <tr>
@@ -253,12 +260,21 @@
         <td>T1555.003</td>
             <td></td>
     </tr>
+    <tr>
     <tr class="credential-access">
         <td></td>
         <td>Steal Web Session Cookie</td>
         <td>T1539</td>
                 <td></td>
     </tr>
+    <tr>
+<tr class="credential-access">
+        <td></td>
+        <td>OS Credential Dumping</td>
+        <td>T1003</td>
+            <td></td>
+    </tr>
+    <tr>
 <tr class="discovery">
     <td>Discovery</td>
     <td>Account Discovery</td>
