@@ -131,13 +131,6 @@
     <tr>
 <tr class="persistence">
         <td></td>
-        <td>BITS Jobs</td>
-        <td>T1197</td>
-            <td></td>
-    </tr>
-    <tr>
-<tr class="persistence">
-        <td></td>
         <td>Boot or Logon Autostart Execution</td>
         <td>T1547</td>
             <td></td>
@@ -154,6 +147,13 @@
         <td></td>
         <td>Scheduled Task/Job</td>
         <td>T1053</td>
+            <td></td>
+    </tr>
+    <tr>
+<tr class="persistence">
+        <td></td>
+        <td>BITS Jobs</td>
+        <td>T1197</td>
             <td></td>
     </tr>
     <tr>
